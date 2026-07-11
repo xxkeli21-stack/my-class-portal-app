@@ -1,0 +1,6 @@
+{
+  "name": "My Class Portal",
+  "description": "A comprehensive digital school portal supporting Students, Prefects, Teachers, and Admins with dynamic configuration, interactive attendance, and study tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

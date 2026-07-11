@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield / Circle in Gold -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="3.5"
+        android:pathData="M54,20 C35.2,20 20,35.2 20,54 C20,72.8 35.2,88 54,88 C72.8,88 88,72.8 88,54 C88,35.2 72.8,20 54,20 Z" />
+        
+    <!-- Decorative Inner Gold Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.2"
+        android:pathData="M54,24 C37.4,24 24,37.4 24,54 C24,70.6 37.4,84 54,84 C70.6,84 84,70.6 84,54 C84,37.4 70.6,24 54,24 Z" />
+
+    <!-- School Emblem: Graduation Cap + Open Book -->
+    <!-- Open Book Pages (bottom part) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,64 L54,74 C48,74 42,72 36,68 L36,58 C42,62 48,64 54,64 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,64 L54,74 C60,74 66,72 72,68 L72,58 C66,62 60,64 54,64 Z" />
+        
+    <!-- Graduation Cap Diamond (top part) -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M54,34 L78,44 L54,54 L30,44 Z" />
+        
+    <!-- Graduation Cap Base -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M40,48 L40,53 C40,57 47,60 54,60 C61,60 68,57 68,53 L68,48 C64,51 59,52 54,52 C49,52 44,51 40,48 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,44 L32,48 L32,56 L30,56 L30,46 Z" />
+</vector>
